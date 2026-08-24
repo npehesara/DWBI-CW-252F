@@ -1,7 +1,7 @@
 # GCE A/L 2020 Dataset Profiling & Data Cleansing
 
 **Student Index No:** `GAHDSE252F-006`  
-**Module / Task:** Day 03 — Data Profiling, Performance Extraction & Pipeline Cleansing  
+**Module / Task:** DW   
 
 ---
 
